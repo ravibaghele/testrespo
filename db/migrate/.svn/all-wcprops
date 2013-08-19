@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ecust/!svn/ver/243/branches/test-app.com/db/migrate
+END
+20130717064503_devise_create_users.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ecust/!svn/ver/243/branches/test-app.com/db/migrate/20130717064503_devise_create_users.rb
+END
+20130725073720_create_services.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ecust/!svn/ver/243/branches/test-app.com/db/migrate/20130725073720_create_services.rb
+END
+20130717044922_create_books.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ecust/!svn/ver/243/branches/test-app.com/db/migrate/20130717044922_create_books.rb
+END

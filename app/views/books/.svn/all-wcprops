@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ecust/!svn/ver/243/branches/test-app.com/app/views/books
+END
+new.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ecust/!svn/ver/243/branches/test-app.com/app/views/books/new.html.erb
+END
+show.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ecust/!svn/ver/243/branches/test-app.com/app/views/books/show.html.erb
+END
+edit.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ecust/!svn/ver/243/branches/test-app.com/app/views/books/edit.html.erb
+END
+_form.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ecust/!svn/ver/243/branches/test-app.com/app/views/books/_form.html.erb
+END
+index.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ecust/!svn/ver/243/branches/test-app.com/app/views/books/index.html.erb
+END

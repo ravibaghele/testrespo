@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ecust/!svn/ver/243/branches/test-app.com/test/fixtures
+END
+users.yml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ecust/!svn/ver/243/branches/test-app.com/test/fixtures/users.yml
+END
+books.yml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ecust/!svn/ver/243/branches/test-app.com/test/fixtures/books.yml
+END
+services.yml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ecust/!svn/ver/243/branches/test-app.com/test/fixtures/services.yml
+END
+.gitkeep
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ecust/!svn/ver/243/branches/test-app.com/test/fixtures/.gitkeep
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ecust/!svn/ver/243/branches/test-app.com/test
+END
+test_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ecust/!svn/ver/243/branches/test-app.com/test/test_helper.rb
+END

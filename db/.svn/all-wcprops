@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ecust/!svn/ver/243/branches/test-app.com/db
+END
+development.sqlite3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ecust/!svn/ver/243/branches/test-app.com/db/development.sqlite3
+END
+seeds.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ecust/!svn/ver/243/branches/test-app.com/db/seeds.rb
+END
+schema.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ecust/!svn/ver/243/branches/test-app.com/db/schema.rb
+END

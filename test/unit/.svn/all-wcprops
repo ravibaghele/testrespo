@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ecust/!svn/ver/243/branches/test-app.com/test/unit
+END
+service_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ecust/!svn/ver/243/branches/test-app.com/test/unit/service_test.rb
+END
+book_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ecust/!svn/ver/243/branches/test-app.com/test/unit/book_test.rb
+END
+user_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ecust/!svn/ver/243/branches/test-app.com/test/unit/user_test.rb
+END
+.gitkeep
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ecust/!svn/ver/243/branches/test-app.com/test/unit/.gitkeep
+END

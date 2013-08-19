@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ecust/!svn/ver/243/branches/test-app.com/app/assets/stylesheets
+END
+application.css
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ecust/!svn/ver/243/branches/test-app.com/app/assets/stylesheets/application.css
+END
+services.css.scss
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ecust/!svn/ver/243/branches/test-app.com/app/assets/stylesheets/services.css.scss
+END
+scaffolds.css.scss
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ecust/!svn/ver/243/branches/test-app.com/app/assets/stylesheets/scaffolds.css.scss
+END
+books.css.scss
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ecust/!svn/ver/243/branches/test-app.com/app/assets/stylesheets/books.css.scss
+END

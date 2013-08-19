@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ecust/!svn/ver/243/branches/test-app.com/test/unit/helpers
+END
+books_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ecust/!svn/ver/243/branches/test-app.com/test/unit/helpers/books_helper_test.rb
+END
+services_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ecust/!svn/ver/243/branches/test-app.com/test/unit/helpers/services_helper_test.rb
+END
